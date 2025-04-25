@@ -1,7 +1,6 @@
 ---
-title: Paper 3
+title: Paper 2
 layout: default
-nav_order: 4
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 ---
 # Title of the page
@@ -17,3 +16,4 @@ Description of the page
 
 {: .note }
 To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.
+
