@@ -6,7 +6,7 @@ url: https://jeremyzxi.github.io/ib-econ-study-group
 
 aux_links:
   Template Repository: https://github.com/JeremyZXi/IB-economic-study-group
-
+color_scheme: nil
 callouts_level: quiet # or loud
 callouts:
   highlight:
@@ -24,7 +24,7 @@ callouts:
     title: Warning
     color: red
 
-  # Back to top link
+# Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
 
