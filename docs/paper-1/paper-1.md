@@ -1,7 +1,7 @@
 ---
-title: Paper 1
+title: I am a title
 layout: default
-nav_order: 2
+parent: Paper 1
 description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
 ---
 # Title of the page
